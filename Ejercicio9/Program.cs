@@ -9,10 +9,11 @@ namespace Ejercicio9
     {
         static void Main(string[] args)
         {
-            int tiabuena;
-            int fanta;
+            int hola2;
+            int hola1;
+
            foreach(tiabuena)
-               fanta++;
+               fanta--;
         }
     }
 }
